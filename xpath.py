@@ -1,0 +1,22 @@
+# login to Automation Exercise and verify new user is available
+Login_button="//a[normalize-space()='Signup / Login']"
+Home_Page_header="//img[@alt='Website for automation practice']"
+New_user_signup="//h2[normalize-space()='New User Signup!']"
+New_user="//input[@placeholder='Name']"
+New_User_email="//input[@data-qa='signup-email']"
+Sign_up_button="//button[normalize-space()='Signup']"
+account_password="//input[@id='password']"
+First_name="//input[@id='first_name']"
+Last_name="//input[@id='last_name']"
+address="//input[@id='address1']"
+Select_state="//input[@id='state']"
+select_city="//input[@id='city']"
+Zipcode="//input[@id='zipcode']"
+mobile_number="//input[@id='mobile_number']"
+create_account_button="//button[normalize-space()='Create Account']"
+continue_button="//a[@class='btn btn-primary']"
+Delete_button="//a[normalize-space()='Delete Account']"
+Delete_continue="//a[normalize-space()='Delete Account']"
+Scrollup_to="//h2[normalize-space()='Subscription']"
+
+
